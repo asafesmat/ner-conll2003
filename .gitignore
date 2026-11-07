@@ -1,0 +1,5 @@
+*.weights.h5
+*.safetensors
+distilbert-ner-final/
+ner-distilbert/
+.ipynb_checkpoints/
